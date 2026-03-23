@@ -42,7 +42,7 @@ This Hackathon is intended to get the community to participate in making maps ba
 - 2:00 - 2:45 - Make-With-Data Workshop 
 - 2:45 - 3:00 - BREAK — Q/A 
 - 3:00 - 4:30 - Hackathon
-- 4:30 - 5:00 - Break -- Q/A -- Light food and refreshments
+- 4:30 - 5:00 - BREAK —  Q/A — Light food and refreshments
 - 5:00 - 7:00 - Hackathon
 - 7:15 - 7:25 - Q/A, Recap and Next Steps
 - 7:25 - 7:30 - Closing and Breathwork Exercise
