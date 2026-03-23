@@ -136,7 +136,7 @@ Use this form to submit your map:   </h4>
 
 - Overall impression
 
-- Is there anything unique?
+- Is there anything unique about the map? Any innovative element to enhance the story?
 
 <h3>Prizes</h3>
 <p>All participants will receive a digital certificate acknowledging their map entry (upon request). Winning maps will be displayed on the Edenas Children website and social media. </p>
