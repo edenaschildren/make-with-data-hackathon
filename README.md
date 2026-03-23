@@ -134,7 +134,7 @@ Use this form to submit your map:   </h4>
 
 <h4>Creativity 20 pts</h4>
 
-- Overall impact
+- Overall impression
 
 - Is there anything unique?
 
