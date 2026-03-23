@@ -153,8 +153,17 @@ Use this form to submit your map:   </h4>
 <h3>Judges</h3>
 - 
 
-- Swati Sharma, Urban Planner
-- Allison Lacko, PhD, Research Scientist
+- Swati Sharma, GIS Specialist, Urban Planner
+- Allison Lacko, PhD, Research Scientist, Public Health Nutrition
 - Daniel Bader, Climate Scientist
 - Jeffrey Rothstein, PhD, Artist and Photographer 
-- Neil Mendeloff and Christopher Baptiste, Edenas Children Board of Directors 
+- Neil Mendeloff and Christopher Baptiste, Edenas Children Board of Directors
+
+
+<h3>Thank you for participating in the March 25th, 2026 <a href="https://edenaschildren.org">Edenas Children</a> Hackathon for Make-With-Data: Mapping Mental Health in partnership with <a href="https://dnmgeospatial.org">DNM Geospatial </a></h3>
+
+<h3>Follow us on Instagram to see the winning maps: <a href="https://www.instagram.com/edenaschildren"> @edenaschildren </a> and <a href="https://www.instagram.com/dnmgeospatial"> @dnmgeospatial </h3>
+
+
+
+
