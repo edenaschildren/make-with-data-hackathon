@@ -66,6 +66,12 @@ Use this form to submit your map:   </p>
 
 <p>Download QGIS for your computer platform here: <a href="https://qgis.org/download/"> https://qgis.org/download/ </a></p>
 
+<h3>QGIS Tutorials</h3>
+<a href="https://docs.qgis.org/3.40/en/docs/training_manual/index.html">https://docs.qgis.org/3.40/en/docs/training_manual/index.html</a>
+
+<a href= "https://www.qgistutorials.com/en/">https://www.qgistutorials.com/en/</a>
+
+
 <h3 align="left">Reference Data Files</h3>
 
 | Name | Data File | 
@@ -160,9 +166,13 @@ Use this form to submit your map:   </h4>
 - Neil Mendeloff and Christopher Baptiste, Edenas Children Board of Directors
 
 
+<h3>Thank you to Neil Mendeloff for sponsoring the food and refreshments!</h3>
+
 <h3>Thank you for participating in the March 25th, 2026 <a href="https://edenaschildren.org">Edenas Children</a> Hackathon for Make-With-Data: Mapping Mental Health in partnership with <a href="https://dnmgeospatial.org">DNM Geospatial </a></h3>
 
 <h3>Follow us on Instagram to see the winning maps: <a href="https://www.instagram.com/edenaschildren"> @edenaschildren </a> and <a href="https://www.instagram.com/dnmgeospatial"> @dnmgeospatial </h3>
+
+
 
 
 
