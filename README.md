@@ -151,8 +151,8 @@ Use this form to submit your map:   </h4>
 - 1st place, $100
 - 2nd place, $50
 - 3rd place, $25
-- 4th place, honey bear
-- 5th place, honey bear 
+- 4th place, $5
+- 5th place, $5
  
   
 
@@ -160,11 +160,8 @@ Use this form to submit your map:   </h4>
 - 
 
 - Swati Sharma, GIS Specialist, Urban Planner
-- Allison Lacko, PhD, Research Scientist, Public Health Nutrition
-- Daniel Bader, Climate Scientist
 - Jeffrey Rothstein, PhD, Artist and Photographer 
 - Neil Mendeloff and Christopher Baptiste, Edenas Children Board of Directors
-
 
 <h3>Thank you to Neil Mendeloff for sponsoring the food and refreshments!</h3>
 
