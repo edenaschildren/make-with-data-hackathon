@@ -98,19 +98,14 @@ Use this form to submit your map:   </p>
 | --- | --- | --- | --- | --- | 
 | Depression | Age-adjusted Percent (%) | 2017-2018 | Borough | [CHS_Borough_Depression_Age_adjusted_Percent_2017_2018.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Age_adjusted_Percent_2017_2018.geojson) 
 | Depression | Age-adjusted Percent (%) | 2021-2022 | Borough | [CHS_Borough_Depression_Age_adjusted_Percent_2021_2022.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Age_adjusted_Percent_2021_2022.geojson)  
-| Depression | Percent (%) | 2017-2018 | Borough | [CHS_Borough_Depression_Percent_2017_2018.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Percent_2017_2018.geojson) 
-| Depression | Percent (%) | 2021-2022 | Borough | [CHS_Borough_Depression_Percent_2021_2022.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Percent_2021_2022.geojson)
 | Depression | Age-adjusted Percent (%) | 2017-2018 | Neighborhood | [CHS_UHF42_Depression_Age_adjusted_Percent_2017_2018.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Age_adjusted_Percent_2017_2018.geojson) 
 | Depression | Age-adjusted Percent (%) | 2021-2022 | Neighborhood | [CHS_UHF42_Depression_Age_adjusted_Percent_2021_2022.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Age_adjusted_Percent_2021_2022.geojson) 
-| Depression | Age-adjusted Percent (%) | 2017-2018 | Neighborhood | [CHS_UHF42_Depression_Percent_2017_2018.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Percent_2017_2018.geojson)
-| Depression | Age-adjusted Percent (%) | 2021-2022 | Neighborhood | [CHS_UHF42_Depression_Percent_2017_2018.geojson](https://github.com/edenaschildren/make-with-data/blob/main/data/CHS_Borough_Depression_Percent_2021_2022.geojson)
-
 
 
 
 <h3 align="left"> Map criteria</h3>
 
-<p>Original work! Do not use AI for any part of this process. You can use the Internet for research however making the map must be your own work. </p>
+<p><b>Original work! Do not use AI for any part of this process. You can use the Internet for research however making the map must be your own work.</b> </p>
 
 <h4>Map Submissions are due Thursday October 22nd by Midnight 
 Use this form to submit your map:   </h4> 
@@ -160,6 +155,7 @@ Use this form to submit your map:   </h4>
 - Rosie Kwon, Data Analyst at New York-Presbyterian 
 - Shourya Dokania, Geospatial Data Scientist at NYC DOT
 - Neil Mendeloff and Christopher Baptiste, Edenas Children Board of Directors
+
 
 <h3>Thank you to our sponsors for sponsoring the food and refreshments!</h3>
 
