@@ -51,7 +51,7 @@ This Hackathon is intended to get the community to participate in making maps ba
 
 <p>Map Submissions are due Thursday October 22nd by Midnight 
 Use this form to submit your map:   </p> 
- <a href="https://forms.gle/fdiCXiY4S7rq1MXT8" target="_blank" rel="noopener noreferrer">Submit your final make-with-data map! </a>
+ <a href="https://forms.gle/Kya7aBptioq3QmtM9" target="_blank" rel="noopener noreferrer">Submit your final make-with-data map! </a>
 
 <h4> Judges will score the maps virtually on Friday October 23rd  </h4>
 
